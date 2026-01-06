@@ -4,7 +4,6 @@ An open-source dictionary aimed at making modern **Web3, blockchain, and crypto 
 
 This project focuses on correctness, consistency, and long-term usefulness for both learners and professionals.
 
----
 
 ## 📍 Quick Links
 - 📖 [View Dictionary](dictionary.md)
@@ -12,8 +11,6 @@ This project focuses on correctness, consistency, and long-term usefulness for b
 - ⚖️ [License](#-license)
 - 🚀 [Future Plans](#-future-plans)
 
-
----
 
 ## ✨ Why This Project Exists
 
@@ -30,7 +27,6 @@ The **Web3 Armenian Dictionary** exists to address these issues by offering a **
 - 📈 Traders and Web3 enthusiasts  
 - 📚 Educators and content creators  
 
----
 
 ## 📚 Dictionary Format
 
@@ -50,7 +46,6 @@ Each entry follows this format:
 - Multiple Armenian translations are separated by commas
 - **Web3 / technical meanings come first** when multiple meanings exist
 
----
 
 ## 🤝 Contributing
 
@@ -66,7 +61,6 @@ Please read **[CONTRIBUTING.md](CONTRIBUTING.md)** before submitting changes to 
 
 If you are unsure about a translation or want to discuss alternatives, feel free to open an Issue.
 
----
 
 ## 📜 License
 
@@ -80,7 +74,6 @@ You are free to:
 
 As long as proper credit is given to this repository.
 
----
 
 ## 🌱 Future Plans
 
@@ -89,7 +82,6 @@ As long as proper credit is given to this repository.
 - Website version (GitHub Pages / IPFS)
 - Structured community review and moderation process
 
----
 
 ## ❤️ Acknowledgements
 
