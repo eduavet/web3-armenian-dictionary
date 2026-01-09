@@ -6,22 +6,36 @@
 | altcoin | ալտքոին |
 | all time high (ATH) | բոլոր ժամանակների ամենաբարձր գին |
 | all time low (ATL) | բոլոր ժամանակների ամենացածր գին |
+| anti-money laundering (AML) | փողերի լվացման դեմ պայքար |
+| application-specific integrated circuit (ASIC) | հատուկ կիրառման համար նախատեսված ինտեգրալ սխեմա |
+| arbitrage | արբիտրաժ |
+| atomic swaps | ատոմային փոխանակումներ |
 | bear market | արջի շուկա |
 | bearish | անկումային |
 | bitcoin | բիթքոին |
 | block | բլոկ |
+| block reward | բլոկի պարգև |
 | blockchain | բլոկչեյն |
 | blockchain explorer | բլոկչեյն դիտարկիչ |
 | bridge | կամուրջ |
 | burn | ոչնչացնել, շրջանառությունից հանել |
 | bull market | ցլի շուկա |
 | bullish | աճող |
+| buy the dip (BTD) | գնել անկումը |
+| byzantine fault tolerance (BFT) | բյուզանդական զորավարների առաջադրանք, բյուզանդական խնդիրների դիմակայում |
+| candidate block | բլոկի թեկնածու |
+| central bank digital currency (CBDC) | կենտրոնական բանկի թվային արժույթ |
 | centralized | կենտրոնացված |
 | centralized exchange (CEX) | կենտրոնացված բորսա |
 | centralized finance (CeFi) | կենտրոնացված ֆինանսներ |
+| circulating supply | շրջանառվող քանակ |
+| coin | քոին |
 | collateral | գրավ |
 | cold wallet | սառը դրամապանակ |
 | chain | շղթա
+| composability | համատեղելիություն |
 | consensus | կոնսենսուս, համաձայնություն |
 | cross-chain | միջշղթայական |
 | cryptocurrency | կրիպտոարժույթ |
+| cryptography | գաղտնագրություն | 
+| custodial wallet | երրորդ կողմի կողմից կառավարվող դրամապանակ |    
