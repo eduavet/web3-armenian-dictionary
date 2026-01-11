@@ -41,7 +41,7 @@
 | consensus | կոնսենսուս, համաձայնություն |
 | cross-chain | միջշղթայական |
 | cryptocurrency | կրիպտոարժույթ |
-| cryptography | գաղտնագրություն | 
+| cryptography | գաղտնագրություն, կրիպտոգրաֆիա | 
 | custodial wallet | երրորդ կողմի կողմից կառավարվող դրամապանակ |  
 | dead wallet | մեռած դրամապանակ |  
 | decentralized | ապակենտրոն |
@@ -56,3 +56,15 @@
 | do your own research (DYOR) | կատարեք ձեր սեփական հետազոտությունը |
 | double spending | կրկնակի ծախսեր |
 | due diligence (DD) | պատշաճ ուսումնասիրություն |
+| ecosystem | էկոհամակարգ |
+| emission | էմիսիա |
+| encryption | գաղտնագրում |
+| entry point | մուտքի կետ |
+| escrow | էսքրոու |
+| ethereum | էթերիում |
+| ethereum virtual machine (EVM) | էթերիում վիրտուալ մեքենա |
+| exchange | բորսա, փոխանակման հարթակ |
+| exchange rate | փոխարժեք |
+| exchange-traded fund (ETF) | բորսայական առևտրային ֆոնդ |
+| execution layer | կատարման շերտ |
+| exit point | ելքի կետ |
