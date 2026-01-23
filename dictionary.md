@@ -108,6 +108,18 @@
 | light node | թեթև հանգույց |
 | limit order | լիմիտային գործարք |
 | liquidation | լիկվիդացիա |
-| liquidity | լիկվիդայնություն |
+| liquidity | լիկվիդայնություն, իրացվելիություն |
 | liquidity pool | լիկվիդայնության ֆոնդ |
 | lock-up period | արգելափակման ժամանակահատված |
+| mainnet | գլխավոր ցանց |
+| margin trading | մարժինալ թրեյդինգ |
+| market cap | շուկայական կապիտալիզացիա |
+| market maker | մարկետ մեյքեր |
+| market order | շուկայական գործարք |
+| master node | գլխավոր հանգույց |
+| max supply | առավելագույն առաջարկ |
+| metaverse | մետատիեզերք |
+| miner | մայներ |
+| mining | մայնինգ |
+| minting | ստեղծում, թողարկում |
+| multi-signature wallet | բազմաստորագրային դրամապանակ |
