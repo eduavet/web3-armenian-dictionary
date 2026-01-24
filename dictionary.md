@@ -43,7 +43,7 @@
 | cross margin | խաչաձև մարժա |
 | cryptocurrency | կրիպտոարժույթ |
 | cryptography | գաղտնագրություն, կրիպտոգրաֆիա | 
-| custodial wallet | երրորդ կողմի կողմից կառավարվող դրամապանակ |  
+| custodial wallet | կաստոդիալ դրամապանակ |  
 | dead wallet | մեռած դրամապանակ |  
 | decentralized | ապակենտրոն |
 | decentralized autonomous organization (DAO) | ապակենտրոն ինքնավար կազմակերպություն |
@@ -123,3 +123,15 @@
 | mining | մայնինգ |
 | minting | ստեղծում, թողարկում |
 | multi-signature wallet | բազմաստորագրային դրամապանակ |
+| nakamoto consensus | նակամոտոյի կոնսենսուս |
+| network congestion | ցանցի գերբեռնվածություն |
+| network fee | ցանցի միջնորդավճար |
+| node | հանգույց |
+| non-custodial wallet | ոչ կաստոդիալ դրամապանակ |
+| non-fungible token (NFT) | անփոխարինելի թոքեն |
+| obfuscation | քողարկում |
+| off-chain | բլոկչեյնից դուրս |
+| on-chain | բլոկչեյնում | 
+| open source | բաց կոդով |
+| order | պատվեր |
+| order book | պատվերների գիրք |
