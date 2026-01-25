@@ -9,6 +9,7 @@
 | anti-money laundering (AML) | փողերի լվացման դեմ պայքար |
 | application-specific integrated circuit (ASIC) | հատուկ կիրառման համար նախատեսված ինտեգրալ սխեմա |
 | arbitrage | արբիտրաժ |
+| asymmetric encryption | անհամաչափ գաղտնագրում |
 | atomic swaps | ատոմային փոխանակումներ |
 | autonomous | ինքնավար |
 | bear market | արջի շուկա |
@@ -37,8 +38,10 @@
 | coin | քոին |
 | collateral | գրավ |
 | cold wallet | սառը դրամապանակ |
+| copy trading | քոփի-թրեյդինգ |
 | composability | համատեղելիություն |
 | consensus | կոնսենսուս, համաձայնություն |
+| contract | պայմանագիր |
 | cross-chain | միջշղթայական |
 | cross margin | խաչաձև մարժա |
 | cryptocurrency | կրիպտոարժույթ |
@@ -51,12 +54,15 @@
 | decentralized finance (DeFi) | ապակենտրոն ֆինանսներ |
 | decentralized exchange (DEX) | ապակենտրոն բորսա |
 | decentralized identity (DID) | ապակենտրոն ինքնություն |
+| decryption | վերծանում |
 | derivation path | ստացման ուղի |
 | deterministic wallet (HD Wallet) | (հիերարխիկ) դետերմինիստական դրամապանակ | 
+| digital signature | թվային ստորագրություն |
 | distributed ledger technology (DLT) | բաշխված գրանցամատյանի տեխնոլոգիա |
 | do your own research (DYOR) | կատարեք ձեր սեփական հետազոտությունը |
 | double spending | կրկնակի ծախսեր |
 | due diligence (DD) | պատշաճ ուսումնասիրություն |
+| dump | գնի կտրուկ անկում |
 | ecosystem | էկոհամակարգ |
 | emission | էմիսիա |
 | encryption | գաղտնագրում |
@@ -122,6 +128,7 @@
 | miner | մայներ |
 | mining | մայնինգ |
 | minting | ստեղծում, թողարկում |
+| multi-assets mode | բազմակի ակտիվների ռեժիմ |
 | multi-signature wallet | բազմաստորագրային դրամապանակ |
 | nakamoto consensus | նակամոտոյի կոնսենսուս |
 | network congestion | ցանցի գերբեռնվածություն |
@@ -135,3 +142,15 @@
 | open source | բաց կոդով |
 | order | պատվեր |
 | order book | պատվերների գիրք |
+| passphrase | գաղտնաբառային արտահայտություն |
+| perpetual futures | անժամկետ ֆյուչերսներ |
+| phishing | ֆիշինգ |
+| portfolio | պորտֆել |
+| position | գործարք |
+| private key | գաղտնի բանալի |
+| profit | շահույթ |
+| proof of work (PoW) | աշխատանքի ապացույց |
+| protocol | պրոտոկոլ |
+| pseudonym | ծածկանուն |
+| public key | հանրային բանալի | 
+| pump | գնի կտրուկ աճ |
