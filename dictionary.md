@@ -88,7 +88,7 @@
 | futures | ֆյուչերս |
 | gas | գազ |   
 | halving | հալվինգ |
-| hard fork | կոշտ ճյուղավորում |
+| hard fork | խոշոր թարմացում, ճյուղավորում |
 | hardware wallet | ապարատային դրամապանակ |
 | hashing | հեշավորում | 
 | hashrate | հեշավորման արագություն |
@@ -109,8 +109,8 @@
 | isolated margin | մեկուսացված մարժա |
 | key | բանալի |
 | know your business (KYB) | ճանաչիր քո բիզնեսին (իրավաբանական անձանց / ընկերությունների նույնականացում) |
-| know your customer (KYC) | ճանաչիր քո հաճախորդին (հաճախորդի նույնականացում) |
-| know your transaction (KYT) | ճանաչիր քո գործարքը (գործարքների մոնիտորինգ) |
+| know your customer (KYC) | ինքնության ստուգում |
+| know your transaction (KYT) | գործարքների մոնիտորինգ |
 | launchpad | մեկնարկային հարթակ |
 | ledger | գրանցամատյան |
 | lending | վարկավորում |
@@ -168,3 +168,18 @@
 | resistance level | դիմադրության մակարդակ |
 | return on investment (ROI) | ներդրման եկամտաբերություն |
 | risk/reward ratio (R/R Ratio) | ռիսկ-օգուտ հարաբերակցություն |
+| satoshi | սատոշի |
+| Satoshi Nakamoto | Սատոշի Նակամոտո |
+| scalability | մասշտաբայնություն |
+| scalping | սկալպինգ |
+| shitcoin | շիթքոին |
+| sidechain | կողմնակի շղթա |
+| smart contract | խելացի պայմանագիր |
+| social engineering | սոցիալական ինժեներիա |
+| soft fork | թեթև թարմացում |
+| spot trading | սփոթ առևտուր |
+| stablecoin | կայուն կրիպտոարժույթ |
+| staking | սթեյքինգ |
+| stop-loss (SL) | կորստի սահման |
+| swap | փոխարկում |
+| symmetric encryption | համաչափ գաղտնագրություն |
