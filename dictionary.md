@@ -108,7 +108,7 @@
 | investment | ներդրում |
 | isolated margin | մեկուսացված մարժա |
 | key | բանալի |
-| know your business (KYB) | ճանաչիր քո բիզնեսին (իրավաբանական անձանց / ընկերությունների նույնականացում) |
+| know your business (KYB) | իրավաբանական անձանց / ընկերությունների նույնականացում |
 | know your customer (KYC) | ինքնության ստուգում |
 | know your transaction (KYT) | գործարքների մոնիտորինգ |
 | launchpad | մեկնարկային հարթակ |
@@ -199,3 +199,11 @@
 | virtual asset | վիրտուալ ակտիվ |
 | virtual machine (VM) | վիրտուալ մեքենա |
 | volatility | տատանողականություն |
+| wallet | դրամապանակ |
+| wallet аddress | դրամապանակի հասցե |
+| whitelist | սպիտակ ցուցակ |
+| withdrawal | կանխիկացում |
+| yield | եկամտաբերություն, եկամուտ |
+| yield аggregator | եկամտաբերության ագրեգատոր |
+| yield farming | եկամտաբերության ֆարմինգ |
+| zero address | զրոյական հասցե |
